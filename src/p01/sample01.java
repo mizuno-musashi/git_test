@@ -7,6 +7,7 @@ public class sample01 {
 		System.out.println(25);
 		System.out.println("ソルクシーズグループ");
 		System.out.println("田町222");
+		System.out.println("三田333");
 	}
 
 }
