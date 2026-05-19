@@ -6,6 +6,7 @@ public class sample01 {
 		System.out.println("水野武蔵");
 		System.out.println(25);
 		System.out.println("ソルクシーズグループ");
+		System.out.println("田町");
 
 	}
 
